@@ -1,4 +1,4 @@
-package com.baksha.sample.ui.displays
+package com.baksha.harness.ui.displays
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.material3.Text
@@ -13,8 +13,8 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
-import com.baksha.sample.ui.theme.md_theme_dark_onSecondary
-import com.baksha.sample.ui.theme.md_theme_light_tertiary
+import com.baksha.harness.ui.theme.md_theme_dark_onSecondary
+import com.baksha.harness.ui.theme.md_theme_light_tertiary
 import kotlinx.coroutines.delay
 
 private const val ONE_SECOND_IN_MILLIS: Long = 1000

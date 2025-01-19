@@ -1,4 +1,4 @@
-package com.baksha.sample.ui.dialogs
+package com.baksha.harness.ui.dialogs
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxWidth

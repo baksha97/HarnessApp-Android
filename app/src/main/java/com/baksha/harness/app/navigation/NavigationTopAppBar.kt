@@ -1,4 +1,4 @@
-package com.baksha.sample.harness.navigation
+package com.baksha.harness.harness.navigation
 
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Menu

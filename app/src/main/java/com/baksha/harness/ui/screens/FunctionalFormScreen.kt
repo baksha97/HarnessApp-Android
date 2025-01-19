@@ -1,4 +1,4 @@
-package com.baksha.sample.ui.screens
+package com.baksha.harness.ui.screens
 
 import android.os.Parcelable
 import androidx.compose.foundation.layout.Column
@@ -20,9 +20,9 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import com.baksha.sample.ui.dialogs.AlertDialog
-import com.baksha.sample.ui.displays.ResultDisplay
-import com.baksha.sample.ui.displays.ResultSuccessContent
+import com.baksha.harness.ui.dialogs.AlertDialog
+import com.baksha.harness.ui.displays.ResultDisplay
+import com.baksha.harness.ui.displays.ResultSuccessContent
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
 import kotlinx.parcelize.Parcelize

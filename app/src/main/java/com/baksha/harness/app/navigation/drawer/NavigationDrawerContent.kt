@@ -1,4 +1,4 @@
-package com.baksha.sample.harness.navigation.drawer
+package com.baksha.harness.harness.navigation.drawer
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -32,12 +32,12 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.baksha.sample.harness.view.harness.EnvironmentDropdownMenu
-import com.baksha.sample.harness.viewmodel.AuthState
-import com.baksha.sample.harness.viewmodel.AuthViewModel
-import com.baksha.sample.harness.navigation.drawer.item.NavigationDrawerItem
-import com.baksha.sample.harness.navigation.drawer.item.NavigationDrawerItemDisplay
-import com.baksha.sample.ui.resources.IDKLogo
+import com.baksha.harness.harness.view.harness.EnvironmentDropdownMenu
+import com.baksha.harness.harness.viewmodel.AuthState
+import com.baksha.harness.harness.viewmodel.AuthViewModel
+import com.baksha.harness.harness.navigation.drawer.item.NavigationDrawerItem
+import com.baksha.harness.harness.navigation.drawer.item.NavigationDrawerItemDisplay
+import com.baksha.harness.ui.resources.IDKLogo
 import org.koin.androidx.compose.koinViewModel
 
 @Composable

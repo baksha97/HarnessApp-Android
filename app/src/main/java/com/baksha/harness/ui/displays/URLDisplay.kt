@@ -1,4 +1,4 @@
-package com.baksha.sample.ui.displays
+package com.baksha.harness.ui.displays
 
 import android.content.Context
 import android.widget.Toast

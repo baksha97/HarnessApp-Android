@@ -1,4 +1,4 @@
-package com.baksha.sample.ui.screens
+package com.baksha.harness.ui.screens
 
 import android.annotation.SuppressLint
 import android.webkit.WebSettings

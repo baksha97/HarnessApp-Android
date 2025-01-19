@@ -1,4 +1,4 @@
-package com.baksha.sample.ui.displays
+package com.baksha.harness.ui.displays
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row

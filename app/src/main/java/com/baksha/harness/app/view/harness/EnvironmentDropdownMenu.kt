@@ -1,4 +1,4 @@
-package com.baksha.sample.harness.view.harness
+package com.baksha.harness.harness.view.harness
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Row
@@ -26,8 +26,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.baksha.sample.harness.viewmodel.HarnessAppEnvironment
-import com.baksha.sample.harness.viewmodel.HarnessAppViewModel
+import com.baksha.harness.harness.viewmodel.HarnessAppEnvironment
+import com.baksha.harness.harness.viewmodel.HarnessAppViewModel
 import org.koin.androidx.compose.koinViewModel
 
 @Composable

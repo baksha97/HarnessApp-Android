@@ -1,4 +1,4 @@
-package com.baksha.sample.harness.view.harness
+package com.baksha.harness.harness.view.harness
 
 import android.util.Log
 import androidx.compose.foundation.horizontalScroll
@@ -31,8 +31,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import com.baksha.sample.harness.repository.LogEvent
-import com.baksha.sample.harness.viewmodel.HarnessAppViewModel
+import com.baksha.harness.harness.repository.LogEvent
+import com.baksha.harness.harness.viewmodel.HarnessAppViewModel
 import org.koin.androidx.compose.koinViewModel
 
 @Composable

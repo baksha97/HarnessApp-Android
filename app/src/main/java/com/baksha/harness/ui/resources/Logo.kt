@@ -1,4 +1,4 @@
-package com.baksha.sample.ui.resources
+package com.baksha.harness.ui.resources
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.size

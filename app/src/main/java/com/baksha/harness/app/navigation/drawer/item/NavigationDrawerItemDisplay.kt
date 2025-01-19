@@ -1,4 +1,4 @@
-package com.baksha.sample.harness.navigation.drawer.item
+package com.baksha.harness.harness.navigation.drawer.item
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement

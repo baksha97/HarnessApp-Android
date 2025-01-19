@@ -1,4 +1,4 @@
-package com.baksha.sample.ui.theme
+package com.baksha.harness.ui.theme
 
 import android.os.Build
 import androidx.compose.material3.MaterialTheme
@@ -8,7 +8,7 @@ import androidx.compose.material3.dynamicLightColorScheme
 import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.platform.LocalContext
-import com.baksha.sample.ui.theme.AppTypography
+import com.baksha.harness.ui.theme.AppTypography
 
 private val LightColors = lightColorScheme(
     primary = md_theme_light_primary,

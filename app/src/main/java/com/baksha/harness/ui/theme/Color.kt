@@ -1,4 +1,4 @@
-package com.baksha.sample.ui.theme
+package com.baksha.harness.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

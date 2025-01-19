@@ -1,4 +1,4 @@
-package com.baksha.sample.ui.dialogs
+package com.baksha.harness.ui.dialogs
 
 import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.Button

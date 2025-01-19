@@ -1,9 +1,9 @@
 package com.baksha.harness.app
 
 import android.app.Application
-import com.baksha.sample.harness.repository.LogRepository
-import com.baksha.sample.harness.viewmodel.AuthViewModel
-import com.baksha.sample.harness.viewmodel.HarnessAppViewModel
+import com.baksha.harness.harness.repository.LogRepository
+import com.baksha.harness.harness.viewmodel.AuthViewModel
+import com.baksha.harness.harness.viewmodel.HarnessAppViewModel
 import org.koin.android.ext.android.get
 import org.koin.android.ext.koin.androidContext
 import org.koin.core.module.dsl.*

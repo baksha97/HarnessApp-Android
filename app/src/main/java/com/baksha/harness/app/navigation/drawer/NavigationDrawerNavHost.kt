@@ -1,12 +1,12 @@
-package com.baksha.sample.harness.navigation.drawer
+package com.baksha.harness.harness.navigation.drawer
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.baksha.sample.harness.navigation.drawer.item.NavigationDrawerItem
-import com.baksha.sample.harness.navigation.drawer.item.Screen
+import com.baksha.harness.harness.navigation.drawer.item.NavigationDrawerItem
+import com.baksha.harness.harness.navigation.drawer.item.Screen
 
 @Composable
 fun NavigationDrawerNavHost(

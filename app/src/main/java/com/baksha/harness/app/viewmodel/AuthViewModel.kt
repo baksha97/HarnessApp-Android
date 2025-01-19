@@ -1,8 +1,8 @@
-package com.baksha.sample.harness.viewmodel
+package com.baksha.harness.harness.viewmodel
 
 import androidx.lifecycle.ViewModel
-import com.baksha.sample.harness.repository.LogEvent
-import com.baksha.sample.harness.repository.LogRepository
+import com.baksha.harness.harness.repository.LogEvent
+import com.baksha.harness.harness.repository.LogRepository
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 

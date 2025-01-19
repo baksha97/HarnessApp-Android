@@ -20,11 +20,11 @@ import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
-import com.baksha.sample.harness.navigation.NavigationTopAppBar
-import com.baksha.sample.harness.navigation.drawer.NavigationDrawerContent
-import com.baksha.sample.harness.navigation.drawer.NavigationDrawerNavHost
-import com.baksha.sample.harness.navigation.drawer.item.NavigationDrawerItem
-import com.baksha.sample.ui.theme.MaterialYouTheme
+import com.baksha.harness.harness.navigation.NavigationTopAppBar
+import com.baksha.harness.harness.navigation.drawer.NavigationDrawerContent
+import com.baksha.harness.harness.navigation.drawer.NavigationDrawerNavHost
+import com.baksha.harness.harness.navigation.drawer.item.NavigationDrawerItem
+import com.baksha.harness.ui.theme.MaterialYouTheme
 import kotlinx.coroutines.launch
 
 @Composable

@@ -1,8 +1,8 @@
-package com.baksha.sample.harness.navigation.drawer.item
+package com.baksha.harness.harness.navigation.drawer.item
 
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
-import com.baksha.sample.harness.view.harness.LogViewerScreen
+import com.baksha.harness.harness.view.harness.LogViewerScreen
 
 @Composable
 fun NavigationDrawerItem.Screen() = when (this) {

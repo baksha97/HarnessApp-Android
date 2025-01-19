@@ -1,4 +1,4 @@
-package com.baksha.sample.harness.navigation.drawer.item
+package com.baksha.harness.harness.navigation.drawer.item
 
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.BugReport

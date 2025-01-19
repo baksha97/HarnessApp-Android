@@ -1,4 +1,4 @@
-package com.baksha.sample.ui.forms
+package com.baksha.harness.ui.forms
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxWidth

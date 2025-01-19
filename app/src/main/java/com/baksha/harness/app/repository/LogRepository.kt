@@ -1,4 +1,4 @@
-package com.baksha.sample.harness.repository
+package com.baksha.harness.harness.repository
 
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

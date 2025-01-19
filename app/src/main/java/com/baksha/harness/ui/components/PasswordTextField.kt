@@ -1,4 +1,4 @@
-package com.baksha.sample.ui.components
+package com.baksha.harness.ui.components
 
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
