@@ -28,20 +28,16 @@ class HarnessAppViewModel(
     private val logRepository: LogRepository
 ) : ViewModel() {
 
-    val state: StateFlow<HarnessAppState>
-        get() = _state
-
-
-    private val _state: MutableStateFlow<HarnessAppState>
-        get() =  MutableStateFlow(HarnessAppState.default)
+    private val _state = MutableStateFlow(
+        HarnessAppState(environment = HarnessAppEnvironment.QA)
+    )
+    val state: StateFlow<HarnessAppState> = _state
 
     val logs: StateFlow<List<LogEvent>>
         get() = logRepository.logs
 
     fun activate(environment: HarnessAppEnvironment) {
-        _state.value = _state.value.copy(
-            environment = environment
-        )
+        _state.value = HarnessAppState(environment = environment)
     }
 
     fun clear() {
